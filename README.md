@@ -1,7 +1,8 @@
 # Apache Superset in Docker
 
 ## Build container:
-docker build -t <TAG> .
+
+`docker build -t <TAG> .`
 
 ## If PostgreSQL and Redis are installed:
 
